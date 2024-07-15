@@ -8,6 +8,6 @@ public class FirstTest {
         int num1 = 1;
         int num2 = 3;
 
-        Assert.assertEquals(num1+num2, 4);
+        Assert.assertEquals(num1+num2, 3);
     }
 }
